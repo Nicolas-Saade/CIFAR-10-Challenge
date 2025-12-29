@@ -3,6 +3,9 @@ A CIFAR-10 Classification Challenge that includes 3 notebooks: a CNN trained fro
 
 # Comprehensive Report: [Available Here](https://github.com/Nicolas-Saade/CIFAR-10-Challenge/blob/main/Report_CIFAR_10.pdf)
 
+# Kaggle Results:
+<img width="2500" height="930" alt="image" src="https://github.com/user-attachments/assets/71d3a83f-f6ce-4ecb-9821-1cc6ad8640a1" />
+
 # N.B.
 ## Vision Transformer (ViT)
 ### Loading pre-trained weights
