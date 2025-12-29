@@ -4,7 +4,6 @@ A CIFAR-10 Classification Challenge that includes 3 notebooks: a CNN trained fro
 # Comprehensive Report:
 
 # N.B.
-Note for the assignment, we had accidently submitted our predictions initially on the Without LLMs for our Ensemble using pre-trained models, we re-submitted accordingly on the With LLMs competition.
 ## Vision Transformer (ViT)
 ### Loading pre-trained weights
 If facing issues with loading pre-trained weights on kaggle. Make sure to have the 2 GPU accelerators on in your environment. Then, do the following 
@@ -22,7 +21,7 @@ The weights for the CNN are in the file `vit_weights.pth`
 ### Loading pr-trained weights and model
 To avoid problems when loading the model load the configuration on an A100 GPU or a T4 GPU. Also it is needed to define a configuration when instantiating a model. The first cell in the subsection "Best Model after HPO" is an example of the parameters and can be used as a configuration.
 
-The weights for the CNN are in the file `HERO_FINAL_82_PERCENT.pth`
+The weights for the CNN are in the file `CNN.pth`
 
 ## Task 2 - Ensemble
 
