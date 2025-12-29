@@ -1,7 +1,7 @@
 # CIFAR-10-Challenge
 A CIFAR-10 Classification Challenge that includes 3 notebooks: a CNN trained from Scratch, a Vision Transformer trained from scratch, Pre-trained Model Ensemble for max performance
 
-# Comprehensive Report:
+# Comprehensive Report: [Available Here](https://github.com/Nicolas-Saade/CIFAR-10-Challenge/blob/main/Report_CIFAR_10.pdf)
 
 # N.B.
 ## Vision Transformer (ViT)
