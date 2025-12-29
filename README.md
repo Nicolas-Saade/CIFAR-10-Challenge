@@ -24,7 +24,7 @@ The weights for the CNN are in the file `vit_weights.pth`
 ### Loading pr-trained weights and model
 To avoid problems when loading the model load the configuration on an A100 GPU or a T4 GPU. Also it is needed to define a configuration when instantiating a model. The first cell in the subsection "Best Model after HPO" is an example of the parameters and can be used as a configuration.
 
-The weights for the CNN are in the file `CNN.pth`
+The weights for the CNN are in the file `CNN_Weights.pth`
 
 ## Task 2 - Ensemble
 
